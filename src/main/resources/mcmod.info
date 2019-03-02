@@ -1,0 +1,16 @@
+[
+{
+  "modid": "burnzombies",
+  "name": "BurnZombiesWithHelmets",
+  "description": "Burns undead mods even if they are wearing helmets.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheDarkColour"],
+  "credits": "TheDarkColour",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
